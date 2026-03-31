@@ -30,4 +30,4 @@ visited = input("도장 깨기 : ")
 bucket_list.remove(visited)
 
 #7. 맛집 리스트 출력
-print(f"리스트:{bucket_list}")
+print(f"리스트:{bucket_list}") 
